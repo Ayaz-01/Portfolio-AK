@@ -17,7 +17,7 @@
     "react-animated-cursor": "^2.5.2",
     "react-dom": "^17.0.2",
     "react-router-dom": "^5.3.0",
-    "react-scripts": "^4.0.3",
+    "react-scripts": "^2.1.3",
     "react-scroll": "^1.8.4",
     "react-uuid": "^2.0.0",
     "react-video-js-player": "^1.1.1",
@@ -25,7 +25,7 @@
     "styled-components": "^5.3.6",
     "uuid": "^8.3.2",
     "v4": "0.0.1",
-    "vercel": "^23.1.2",
+    "vercel": "^19.1.2",
     "web-vitals": "^1.1.2"
   },
   "scripts": {
