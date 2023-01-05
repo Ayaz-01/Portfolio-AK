@@ -9,7 +9,7 @@ import PhoneIcon from '@material-ui/icons/Phone';
 
 export default function Footer() {
 
-     const [show, setShow] = useState(true)
+     const [show] = useState(true)
 
     return (
         <>
@@ -19,8 +19,8 @@ export default function Footer() {
                     <IconsCont>
                         <a href="mailto: ayazkhanm3496@gmail.com" ><EmailIcon className="icon" /></a>
                         <a href="https://twitter.com/AyazKhan1245?t=29247eKNKaQ_sWqg_kgffA&s=09" target="_blank" rel="noreferrer"><TwitterIcon className="icon" /></a>
-                        <a href="linkedin.com/in/ayaz-khan-875a48231" target="_blank" rel="noreferrer"><LinkedInIcon className="icon" /></a>
-                        <a href="github.com/Ayaz-01" target="_blank" rel="noreferrer"><GitHubIcon className="icon" /></a>
+                        <a href="https://linkedin.com/in/ayaz-khan-875a48231" target="_blank" rel="noreferrer"><LinkedInIcon className="icon" /></a>
+                        <a href="https://github.com/Ayaz-01" target="_blank" rel="noreferrer"><GitHubIcon className="icon" /></a>
                         <span className='pCall'>
                         <PhoneIcon className="icon" />
                         <span className='txt'>+91 7410115420</span> 
